@@ -1,0 +1,20 @@
+---Voraussetzungen fur diese Vorlesung ProgrammierbarLogik----
+
+1.Grundlagen aus den Modulen Digitale Systeme 1 & 2, Rechnerarchitektur und -oganisation als auch der Informatik 
+2.Lesen der Fachbucher bzw. der Literaturhinweise
+3.Selbststudium: 82 Stunden ≈ 10h/Woche
+4.Literatur:~Digital Elktoniks and deesign With VHDL~
+5.Nach der Semester soll ich in der Lage sein, einfache digitale Funktionen mit VHDL und/oder
+Verilog HDL beschreiben zu können und das Verhalten zu simulieren
+
+---Labor Übungen--- 
+1.Laborbericht (in Latex) zu dokumentieren
+
+2 .Korrekte Bearbeitung der Aufgaben
+  .Verständnis des eigenen Codes
+  .Codingstyle (ist der Code übersichtlich und der Stil koherent?)
+  .Verständnis der generierten Netzliste
+  .Korrekte Beantwortung der Rückfragen des Übungsleiters
+
+3.nach der Rücksprache als ZIP-Datei in Moodle hochgeladen werden
+4.für jede Laborübung ein neues Quartus II Projekt anzulegen
