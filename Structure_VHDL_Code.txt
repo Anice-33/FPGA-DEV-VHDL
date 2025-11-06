@@ -1,0 +1,38 @@
+--Comment
+--this is a Comment
+/*this is also a comment*/
+
+--test1:
+
+
+-- library 
+library IEEE;
+use ieee.numeric_std.all;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+--....
+
+
+-- entity
+entity test1 is 
+	port (
+		A :  IN  std_logic;
+		B :  OUT std_logic
+		);
+end test1;
+
+
+--architecture
+architecture test1_arch of test1 is 
+
+	--component
+	--singals
+    signal counter  : std_logic_vector(7 downto 0);
+	signal c        : std_logic;
+	
+begin
+
+	--process
+	c <=  A and B;
+	
+end test1_arch;
